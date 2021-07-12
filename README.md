@@ -4,7 +4,7 @@ My Codingame solution.
 
 ## Puzzle completion
 
-* EASY : 4%
+* EASY : 5%
 * MEDIUM : 1%
 * HARD : 0%
 * VERY HARD : 0%
